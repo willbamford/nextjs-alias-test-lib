@@ -1,3 +1,3 @@
 module.exports.foo = () => {
-  console.log("Foo testpkg-1");
+  return "Foo testpkg-1";
 };
