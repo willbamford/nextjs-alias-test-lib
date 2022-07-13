@@ -1,0 +1,10 @@
+{
+  "name": "@nextjs-alias-test-lib/testpkg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "publish": "npm publish --access public"
+  }
+}
